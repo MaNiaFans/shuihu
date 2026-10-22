@@ -1,9 +1,6 @@
 # Reproducible outputs from skill_review/check_skill.py
 /skill_review/checks/
 
-# MkDocs build output
-/site/
-
 # Python caches and local environments
 __pycache__/
 *.py[cod]
