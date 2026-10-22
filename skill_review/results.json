@@ -1,0 +1,93 @@
+{
+  "real_book_split": {
+    "exit_code": 0,
+    "chapter_count": 100,
+    "duplicate_heading_warnings": 100,
+    "appendix_1_in_ch100": true,
+    "appendix_2_in_ch100": true,
+    "modern_notes_in_ch029_units": [
+      {
+        "id": 59,
+        "text": "[1] 兑坊——兑换店、小押铺。"
+      }
+    ]
+  },
+  "quote_matching": {
+    "valid_order_control": [
+      true,
+      ""
+    ],
+    "reversed_order_should_fail": [
+      true,
+      ""
+    ],
+    "fabricated_text_control": [
+      false,
+      "原文中找不到: 这里没有出现"
+    ]
+  },
+  "valid_scene_control": {
+    "exit_code": 0,
+    "stdout": "[通过] 场景抽取核验全部通过",
+    "stderr": ""
+  },
+  "valid_dossier_control": {
+    "exit_code": 0,
+    "stdout": "[通过] 档案核验全部通过",
+    "stderr": ""
+  },
+  "missing_required_quote": {
+    "exit_code": 0,
+    "stdout": "[通过] 场景抽取核验全部通过",
+    "stderr": ""
+  },
+  "overlapping_scene_ranges": {
+    "exit_code": 0,
+    "stdout": "[通过] 场景抽取核验全部通过",
+    "stderr": ""
+  },
+  "out_of_bounds_empty_scene": {
+    "exit_code": 0,
+    "stdout": "[通过] 场景抽取核验全部通过",
+    "stderr": ""
+  },
+  "bare_assertion_without_tag": {
+    "exit_code": 0,
+    "stdout": "[通过] 档案核验全部通过",
+    "stderr": ""
+  },
+  "template_timeline_missing_citation": {
+    "exit_code": 0,
+    "stdout": "[通过] 档案核验全部通过",
+    "stderr": ""
+  },
+  "template_interpretation_missing_evidence": {
+    "exit_code": 0,
+    "stdout": "[通过] 档案核验全部通过",
+    "stderr": ""
+  },
+  "proper_tag_missing_citation_control": {
+    "exit_code": 1,
+    "stdout": "[失败] 档案核验发现 1 处问题:\n  - L1: [事实] 没有任何有效引用",
+    "stderr": ""
+  },
+  "bundle_with_failed_review": {
+    "command": {
+      "exit_code": 0,
+      "stdout": "甲方: 场景 1 | 关系事件 1 | 缺席影响 1 | 对手方 1 -> F:\\水浒\\skill_review\\checks\\synthetic_workspace\\data\\bundles\\甲方.json\n交集最多: 乙方(1)",
+      "stderr": ""
+    },
+    "review_verdict": "revise",
+    "timeline_count": 1,
+    "counterparts": [
+      [
+        "乙方",
+        1
+      ]
+    ],
+    "absent_related_person": "丙方",
+    "timeline_keeps_time": false,
+    "bundle_keeps_foreshadow": false,
+    "bundle_records_review_status": false
+  }
+}

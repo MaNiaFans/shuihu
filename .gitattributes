@@ -1,0 +1,3 @@
+# Preserve exact source and evidence bytes, including existing line endings.
+# Chapter provenance and review records use SHA-256 of the actual files.
+* -text

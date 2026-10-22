@@ -1,0 +1,20 @@
+# Reproducible outputs from skill_review/check_skill.py
+/skill_review/checks/
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Local credentials and editor/OS temporary files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
