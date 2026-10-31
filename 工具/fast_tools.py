@@ -571,6 +571,9 @@ def check05(n):
             continue
         old = rows[0].split('|')[6]
         ost, nst = rows[0].split('|')[5].strip(), st.replace('（不变）', '').strip()
+        if ost.startswith('并入') and nst in ('沿用', ost):
+            errs.append(f'5c {tid}已{ost}：新证据应记在该Q下，不再独立更新T')
+            continue
         try:
             update_status(ost, nst, rest, rdu(d + '03_检校意见.md') if os.path.isfile(d + '03_检校意见.md') else '')
         except FlowError as error:

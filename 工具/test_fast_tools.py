@@ -175,6 +175,22 @@ class FlowTests(unittest.TestCase):
         with self.assertRaises(self.m.FlowError):
             self.m.update_status('撤销', '开放', '：重开但无依据', '')
 
+    def test_merged_clue_cannot_receive_separate_followup(self):
+        for wanted in ('沿用', '并入CH001-Q01'):
+            with self.subTest(wanted=wanted):
+                self.put('全书追踪/线索登记.md',
+                         '# clues\n最新：第070回G7写入，共1条。\n## 开放与部分回指\n'
+                         '## 归档\n| CH001-T01 | L1 | old | 信息 | 并入CH001-Q01 | old end | 第001回05 |\n')
+                self.put('章节/第071回/04_修订定稿.md', 'alpha\nbeta\n')
+                self.put('章节/第071回/05_追踪与交接.md',
+                         self.handoff().replace('状态：部分回指。', f'状态：{wanted}。'))
+                self.prepare_fix()
+                self.call('fix', 71)
+                before = {p: Path(p).read_bytes() for p in self.m.global_paths()}
+                with self.assertRaisesRegex(self.m.FlowError, '已并入CH001-Q01'):
+                    self.call('g7', 71)
+                self.assertEqual(before, {p: Path(p).read_bytes() for p in self.m.global_paths()})
+
     def test_reopened_clue_moves_back_to_open_view(self):
         self.put('全书追踪/线索登记.md',
                  '# clues\n最新：第070回G7写入，共1条。\n## 开放与部分回指\n'
