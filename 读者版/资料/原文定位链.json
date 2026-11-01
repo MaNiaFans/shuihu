@@ -1,0 +1,995 @@
+[
+  {
+    "id": "R01",
+    "topic": "洪信、封镇碑与星名",
+    "segments": [
+      {
+        "chapter": 1,
+        "start": 64,
+        "end": 70
+      },
+      {
+        "chapter": 71,
+        "start": 26,
+        "end": 26
+      }
+    ]
+  },
+  {
+    "id": "R02",
+    "topic": "王进与史进",
+    "segments": [
+      {
+        "chapter": 2,
+        "start": 74,
+        "end": 74
+      },
+      {
+        "chapter": 58,
+        "start": 70,
+        "end": 78
+      },
+      {
+        "chapter": 98,
+        "start": 24,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "id": "R03",
+    "topic": "金氏父女、桃花村与瓦罐寺",
+    "segments": [
+      {
+        "chapter": 3,
+        "start": 54,
+        "end": 60
+      },
+      {
+        "chapter": 5,
+        "start": 58,
+        "end": 58
+      },
+      {
+        "chapter": 6,
+        "start": 48,
+        "end": 48
+      }
+    ]
+  },
+  {
+    "id": "R04",
+    "topic": "鲁智深与林冲往来",
+    "segments": [
+      {
+        "chapter": 7,
+        "start": 32,
+        "end": 34
+      },
+      {
+        "chapter": 9,
+        "start": 14,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "id": "R05",
+    "topic": "智真、鲁智深与六和寺",
+    "segments": [
+      {
+        "chapter": 4,
+        "start": 46,
+        "end": 46
+      },
+      {
+        "chapter": 90,
+        "start": 34,
+        "end": 40
+      },
+      {
+        "chapter": 99,
+        "start": 42,
+        "end": 42
+      },
+      {
+        "chapter": 99,
+        "start": 88,
+        "end": 96
+      }
+    ]
+  },
+  {
+    "id": "R06",
+    "topic": "林冲刺配与草料场",
+    "segments": [
+      {
+        "chapter": 8,
+        "start": 22,
+        "end": 30
+      },
+      {
+        "chapter": 10,
+        "start": 46,
+        "end": 50
+      }
+    ]
+  },
+  {
+    "id": "R07",
+    "topic": "林冲入山与家人消息",
+    "segments": [
+      {
+        "chapter": 11,
+        "start": 58,
+        "end": 62
+      },
+      {
+        "chapter": 20,
+        "start": 24,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "id": "R08",
+    "topic": "杨志的刀、纲与二龙山",
+    "segments": [
+      {
+        "chapter": 12,
+        "start": 18,
+        "end": 18
+      },
+      {
+        "chapter": 12,
+        "start": 30,
+        "end": 30
+      },
+      {
+        "chapter": 16,
+        "start": 70,
+        "end": 72
+      },
+      {
+        "chapter": 17,
+        "start": 26,
+        "end": 26
+      }
+    ]
+  },
+  {
+    "id": "R09",
+    "topic": "武松兄案与官府处置",
+    "segments": [
+      {
+        "chapter": 26,
+        "start": 14,
+        "end": 16
+      },
+      {
+        "chapter": 26,
+        "start": 38,
+        "end": 48
+      },
+      {
+        "chapter": 27,
+        "start": 14,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "id": "R10",
+    "topic": "武松在孟州",
+    "segments": [
+      {
+        "chapter": 29,
+        "start": 14,
+        "end": 18
+      },
+      {
+        "chapter": 31,
+        "start": 22,
+        "end": 26
+      },
+      {
+        "chapter": 31,
+        "start": 32,
+        "end": 36
+      }
+    ]
+  },
+  {
+    "id": "R11",
+    "topic": "菊花会、武松伤势与留寺",
+    "segments": [
+      {
+        "chapter": 71,
+        "start": 322,
+        "end": 322
+      },
+      {
+        "chapter": 97,
+        "start": 48,
+        "end": 50
+      },
+      {
+        "chapter": 99,
+        "start": 98,
+        "end": 100
+      }
+    ]
+  },
+  {
+    "id": "R12",
+    "topic": "晁盖、吴用、三阮与梁山",
+    "segments": [
+      {
+        "chapter": 15,
+        "start": 58,
+        "end": 62
+      },
+      {
+        "chapter": 19,
+        "start": 52,
+        "end": 52
+      },
+      {
+        "chapter": 19,
+        "start": 64,
+        "end": 68
+      }
+    ]
+  },
+  {
+    "id": "R13",
+    "topic": "晁盖亲征、箭与遗言",
+    "segments": [
+      {
+        "chapter": 60,
+        "start": 62,
+        "end": 72
+      },
+      {
+        "chapter": 68,
+        "start": 20,
+        "end": 20
+      },
+      {
+        "chapter": 68,
+        "start": 76,
+        "end": 76
+      }
+    ]
+  },
+  {
+    "id": "R14",
+    "topic": "宋江传报、书金与阎婆惜",
+    "segments": [
+      {
+        "chapter": 18,
+        "start": 32,
+        "end": 40
+      },
+      {
+        "chapter": 20,
+        "start": 62,
+        "end": 64
+      },
+      {
+        "chapter": 21,
+        "start": 66,
+        "end": 76
+      }
+    ]
+  },
+  {
+    "id": "R15",
+    "topic": "宋家书、刺配与浔阳楼诗",
+    "segments": [
+      {
+        "chapter": 35,
+        "start": 44,
+        "end": 48
+      },
+      {
+        "chapter": 35,
+        "start": 60,
+        "end": 60
+      },
+      {
+        "chapter": 36,
+        "start": 38,
+        "end": 40
+      },
+      {
+        "chapter": 39,
+        "start": 24,
+        "end": 34
+      }
+    ]
+  },
+  {
+    "id": "R16",
+    "topic": "推位与座次",
+    "segments": [
+      {
+        "chapter": 60,
+        "start": 76,
+        "end": 78
+      },
+      {
+        "chapter": 68,
+        "start": 80,
+        "end": 80
+      },
+      {
+        "chapter": 69,
+        "start": 14,
+        "end": 20
+      },
+      {
+        "chapter": 71,
+        "start": 140,
+        "end": 140
+      }
+    ]
+  },
+  {
+    "id": "R17",
+    "topic": "玄女、天书与重修庙宇",
+    "segments": [
+      {
+        "chapter": 42,
+        "start": 38,
+        "end": 46
+      },
+      {
+        "chapter": 88,
+        "start": 128,
+        "end": 136
+      },
+      {
+        "chapter": 99,
+        "start": 268,
+        "end": 268
+      }
+    ]
+  },
+  {
+    "id": "R18",
+    "topic": "李逵在江州与接母",
+    "segments": [
+      {
+        "chapter": 38,
+        "start": 34,
+        "end": 38
+      },
+      {
+        "chapter": 38,
+        "start": 70,
+        "end": 70
+      },
+      {
+        "chapter": 40,
+        "start": 44,
+        "end": 48
+      },
+      {
+        "chapter": 43,
+        "start": 36,
+        "end": 40
+      },
+      {
+        "chapter": 43,
+        "start": 52,
+        "end": 68
+      }
+    ]
+  },
+  {
+    "id": "R19",
+    "topic": "扈家庄、小衙内与朱仝",
+    "segments": [
+      {
+        "chapter": 50,
+        "start": 32,
+        "end": 34
+      },
+      {
+        "chapter": 51,
+        "start": 68,
+        "end": 84
+      },
+      {
+        "chapter": 52,
+        "start": 42,
+        "end": 42
+      }
+    ]
+  },
+  {
+    "id": "R20",
+    "topic": "李逵在东京、刘家与寿张",
+    "segments": [
+      {
+        "chapter": 73,
+        "start": 34,
+        "end": 36
+      },
+      {
+        "chapter": 73,
+        "start": 50,
+        "end": 60
+      },
+      {
+        "chapter": 74,
+        "start": 70,
+        "end": 76
+      }
+    ]
+  },
+  {
+    "id": "R21",
+    "topic": "宋江、李逵、吴用与花荣在末回",
+    "segments": [
+      {
+        "chapter": 100,
+        "start": 60,
+        "end": 68
+      },
+      {
+        "chapter": 100,
+        "start": 84,
+        "end": 92
+      },
+      {
+        "chapter": 100,
+        "start": 104,
+        "end": 104
+      }
+    ]
+  },
+  {
+    "id": "R22",
+    "topic": "萧让、金大坚、李应与徐宁上山",
+    "segments": [
+      {
+        "chapter": 39,
+        "start": 98,
+        "end": 102
+      },
+      {
+        "chapter": 50,
+        "start": 46,
+        "end": 46
+      },
+      {
+        "chapter": 56,
+        "start": 80,
+        "end": 82
+      }
+    ]
+  },
+  {
+    "id": "R23",
+    "topic": "卢俊义的壁歌、在山与返家",
+    "segments": [
+      {
+        "chapter": 61,
+        "start": 34,
+        "end": 40
+      },
+      {
+        "chapter": 62,
+        "start": 16,
+        "end": 22
+      },
+      {
+        "chapter": 62,
+        "start": 28,
+        "end": 32
+      }
+    ]
+  },
+  {
+    "id": "R24",
+    "topic": "燕青救主、辞去与卢俊义后事",
+    "segments": [
+      {
+        "chapter": 62,
+        "start": 90,
+        "end": 94
+      },
+      {
+        "chapter": 99,
+        "start": 102,
+        "end": 118
+      },
+      {
+        "chapter": 100,
+        "start": 44,
+        "end": 44
+      }
+    ]
+  },
+  {
+    "id": "R25",
+    "topic": "李俊、童威童猛与太湖四人",
+    "segments": [
+      {
+        "chapter": 37,
+        "start": 58,
+        "end": 64
+      },
+      {
+        "chapter": 93,
+        "start": 82,
+        "end": 88
+      },
+      {
+        "chapter": 94,
+        "start": 14,
+        "end": 16
+      },
+      {
+        "chapter": 99,
+        "start": 120,
+        "end": 122
+      }
+    ]
+  },
+  {
+    "id": "R26",
+    "topic": "三阮与御酒、江战、御服",
+    "segments": [
+      {
+        "chapter": 75,
+        "start": 34,
+        "end": 34
+      },
+      {
+        "chapter": 96,
+        "start": 100,
+        "end": 108
+      },
+      {
+        "chapter": 99,
+        "start": 34,
+        "end": 34
+      },
+      {
+        "chapter": 100,
+        "start": 10,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "id": "R27",
+    "topic": "柴进庄上、铁券与高唐州",
+    "segments": [
+      {
+        "chapter": 9,
+        "start": 26,
+        "end": 32
+      },
+      {
+        "chapter": 52,
+        "start": 30,
+        "end": 38
+      },
+      {
+        "chapter": 54,
+        "start": 76,
+        "end": 84
+      }
+    ]
+  },
+  {
+    "id": "R28",
+    "topic": "花荣、戴宗与消息救援",
+    "segments": [
+      {
+        "chapter": 33,
+        "start": 46,
+        "end": 54
+      },
+      {
+        "chapter": 39,
+        "start": 62,
+        "end": 78
+      },
+      {
+        "chapter": 40,
+        "start": 14,
+        "end": 28
+      },
+      {
+        "chapter": 81,
+        "start": 92,
+        "end": 92
+      },
+      {
+        "chapter": 100,
+        "start": 8,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "id": "R29",
+    "topic": "秦明、呼延灼、关胜与张清归附",
+    "segments": [
+      {
+        "chapter": 34,
+        "start": 50,
+        "end": 54
+      },
+      {
+        "chapter": 58,
+        "start": 26,
+        "end": 30
+      },
+      {
+        "chapter": 64,
+        "start": 82,
+        "end": 82
+      },
+      {
+        "chapter": 70,
+        "start": 56,
+        "end": 56
+      }
+    ]
+  },
+  {
+    "id": "R30",
+    "topic": "扈三娘、顾大嫂与孙二娘",
+    "segments": [
+      {
+        "chapter": 48,
+        "start": 76,
+        "end": 76
+      },
+      {
+        "chapter": 49,
+        "start": 84,
+        "end": 94
+      },
+      {
+        "chapter": 51,
+        "start": 28,
+        "end": 28
+      },
+      {
+        "chapter": 63,
+        "start": 42,
+        "end": 42
+      },
+      {
+        "chapter": 98,
+        "start": 94,
+        "end": 94
+      },
+      {
+        "chapter": 99,
+        "start": 226,
+        "end": 226
+      }
+    ]
+  },
+  {
+    "id": "R31",
+    "topic": "公孙胜省母、从师与离军",
+    "segments": [
+      {
+        "chapter": 42,
+        "start": 62,
+        "end": 64
+      },
+      {
+        "chapter": 53,
+        "start": 68,
+        "end": 92
+      },
+      {
+        "chapter": 54,
+        "start": 14,
+        "end": 14
+      },
+      {
+        "chapter": 90,
+        "start": 64,
+        "end": 64
+      }
+    ]
+  },
+  {
+    "id": "R32",
+    "topic": "报晓、红灯与月尽日期",
+    "segments": [
+      {
+        "chapter": 45,
+        "start": 64,
+        "end": 74
+      },
+      {
+        "chapter": 48,
+        "start": 16,
+        "end": 16
+      },
+      {
+        "chapter": 69,
+        "start": 64,
+        "end": 70
+      }
+    ]
+  },
+  {
+    "id": "R33",
+    "topic": "三次招安诏书的开读",
+    "segments": [
+      {
+        "chapter": 75,
+        "start": 38,
+        "end": 46
+      },
+      {
+        "chapter": 79,
+        "start": 52,
+        "end": 58
+      },
+      {
+        "chapter": 80,
+        "start": 26,
+        "end": 34
+      },
+      {
+        "chapter": 82,
+        "start": 44,
+        "end": 58
+      }
+    ]
+  },
+  {
+    "id": "R34",
+    "topic": "高俅许诺、燕青见帝与宿元景",
+    "segments": [
+      {
+        "chapter": 80,
+        "start": 100,
+        "end": 114
+      },
+      {
+        "chapter": 81,
+        "start": 68,
+        "end": 74
+      },
+      {
+        "chapter": 82,
+        "start": 26,
+        "end": 34
+      }
+    ]
+  },
+  {
+    "id": "R35",
+    "topic": "宋江对宋朝、功赏与去留的言行",
+    "segments": [
+      {
+        "chapter": 85,
+        "start": 22,
+        "end": 22
+      },
+      {
+        "chapter": 89,
+        "start": 56,
+        "end": 58
+      },
+      {
+        "chapter": 89,
+        "start": 72,
+        "end": 72
+      },
+      {
+        "chapter": 90,
+        "start": 80,
+        "end": 80
+      },
+      {
+        "chapter": 99,
+        "start": 258,
+        "end": 264
+      },
+      {
+        "chapter": 100,
+        "start": 46,
+        "end": 56
+      }
+    ]
+  },
+  {
+    "id": "R36",
+    "topic": "回书、御物与军中凭证",
+    "segments": [
+      {
+        "chapter": 2,
+        "start": 106,
+        "end": 112
+      },
+      {
+        "chapter": 59,
+        "start": 38,
+        "end": 54
+      },
+      {
+        "chapter": 91,
+        "start": 48,
+        "end": 56
+      }
+    ]
+  },
+  {
+    "id": "R37",
+    "topic": "张顺求医、军医召回与杭州",
+    "segments": [
+      {
+        "chapter": 65,
+        "start": 54,
+        "end": 64
+      },
+      {
+        "chapter": 94,
+        "start": 60,
+        "end": 60
+      },
+      {
+        "chapter": 94,
+        "start": 186,
+        "end": 190
+      },
+      {
+        "chapter": 95,
+        "start": 152,
+        "end": 158
+      }
+    ]
+  },
+  {
+    "id": "R38",
+    "topic": "城中居民、船只与征调",
+    "segments": [
+      {
+        "chapter": 66,
+        "start": 76,
+        "end": 78
+      },
+      {
+        "chapter": 78,
+        "start": 44,
+        "end": 50
+      },
+      {
+        "chapter": 80,
+        "start": 60,
+        "end": 66
+      },
+      {
+        "chapter": 91,
+        "start": 96,
+        "end": 102
+      }
+    ]
+  },
+  {
+    "id": "R39",
+    "topic": "辽战中的进兵、救援与议和",
+    "segments": [
+      {
+        "chapter": 86,
+        "start": 40,
+        "end": 50
+      },
+      {
+        "chapter": 88,
+        "start": 112,
+        "end": 116
+      },
+      {
+        "chapter": 89,
+        "start": 40,
+        "end": 44
+      }
+    ]
+  },
+  {
+    "id": "R40",
+    "topic": "南征的分兵、伤亡与祭奠",
+    "segments": [
+      {
+        "chapter": 92,
+        "start": 106,
+        "end": 108
+      },
+      {
+        "chapter": 92,
+        "start": 126,
+        "end": 136
+      },
+      {
+        "chapter": 94,
+        "start": 152,
+        "end": 156
+      },
+      {
+        "chapter": 98,
+        "start": 100,
+        "end": 110
+      },
+      {
+        "chapter": 99,
+        "start": 44,
+        "end": 54
+      }
+    ]
+  },
+  {
+    "id": "R41",
+    "topic": "罗真人法语、智真偈与射雁",
+    "segments": [
+      {
+        "chapter": 85,
+        "start": 30,
+        "end": 36
+      },
+      {
+        "chapter": 90,
+        "start": 28,
+        "end": 32
+      },
+      {
+        "chapter": 90,
+        "start": 44,
+        "end": 54
+      },
+      {
+        "chapter": 100,
+        "start": 120,
+        "end": 130
+      }
+    ]
+  },
+  {
+    "id": "R42",
+    "topic": "君臣奏报、陈桥驿与身后查访",
+    "segments": [
+      {
+        "chapter": 2,
+        "start": 38,
+        "end": 44
+      },
+      {
+        "chapter": 83,
+        "start": 64,
+        "end": 72
+      },
+      {
+        "chapter": 100,
+        "start": 30,
+        "end": 38
+      },
+      {
+        "chapter": 100,
+        "start": 110,
+        "end": 116
+      },
+      {
+        "chapter": 100,
+        "start": 132,
+        "end": 146
+      }
+    ]
+  }
+]
+

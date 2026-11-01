@@ -1,0 +1,79 @@
+[
+  {
+    "id": "D01",
+    "topic": "第九至十一回相关场面",
+    "segments": [
+      {"chapter": 9, "start": 8, "end": 10},
+      {"chapter": 10, "start": 52, "end": 58},
+      {"chapter": 11, "start": 64, "end": 66}
+    ]
+  },
+  {
+    "id": "D02",
+    "topic": "第七十一、八十二、九十九回相关场面",
+    "segments": [
+      {"chapter": 71, "start": 316, "end": 322},
+      {"chapter": 82, "start": 54, "end": 64},
+      {"chapter": 99, "start": 134, "end": 138},
+      {"chapter": 99, "start": 226, "end": 258}
+    ]
+  },
+  {
+    "id": "D03",
+    "topic": "第二十六至三十回相关场面",
+    "segments": [
+      {"chapter": 26, "start": 50, "end": 60},
+      {"chapter": 27, "start": 20, "end": 24},
+      {"chapter": 28, "start": 14, "end": 14},
+      {"chapter": 28, "start": 32, "end": 38},
+      {"chapter": 30, "start": 34, "end": 50},
+      {"chapter": 30, "start": 66, "end": 86}
+    ]
+  },
+  {
+    "id": "D04",
+    "topic": "第十五、六十回相关场面",
+    "segments": [
+      {"chapter": 15, "start": 14, "end": 56},
+      {"chapter": 60, "start": 40, "end": 60}
+    ]
+  },
+  {
+    "id": "D05",
+    "topic": "第三十八至四十三回及第七十三回相关场面",
+    "segments": [
+      {"chapter": 38, "start": 70, "end": 70},
+      {"chapter": 39, "start": 14, "end": 16},
+      {"chapter": 43, "start": 42, "end": 50},
+      {"chapter": 73, "start": 38, "end": 48},
+      {"chapter": 73, "start": 66, "end": 76}
+    ]
+  },
+  {
+    "id": "D06",
+    "topic": "第六十一、九十九、一百回相关场面",
+    "segments": [
+      {"chapter": 61, "start": 50, "end": 50},
+      {"chapter": 99, "start": 102, "end": 118},
+      {"chapter": 100, "start": 30, "end": 44}
+    ]
+  },
+  {
+    "id": "D07",
+    "topic": "第四十八、五十一、九十七回相关场面",
+    "segments": [
+      {"chapter": 48, "start": 62, "end": 76},
+      {"chapter": 51, "start": 28, "end": 28},
+      {"chapter": 97, "start": 48, "end": 48}
+    ]
+  },
+  {
+    "id": "D08",
+    "topic": "第二十七、三十一回相关场面",
+    "segments": [
+      {"chapter": 27, "start": 42, "end": 42},
+      {"chapter": 31, "start": 62, "end": 62},
+      {"chapter": 31, "start": 68, "end": 68}
+    ]
+  }
+]
